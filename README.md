@@ -110,3 +110,6 @@ elif data[3] == 1:
 elif data[3] == 2:
      print("figurine retirée du portail")
 ```
+![20240508_144628-ezgif com-optimize](https://github.com/Haki-i/read-skylanders-portal-data/assets/137703849/ea90be5e-e47c-4da2-a5a1-718e572fe785)
+
+
